@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\customer\source\repos\course_work_in solyara!\course_work_in solyara!</FILEPATH>
+      <FILENAME>chuman.cpp</FILENAME>
+      <LINE>11</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Human::money' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Human::{ctor}</FUNCTION>
+    <DECORATED>??0Human@@QAE@HV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0H@Z</DECORATED>
+    <FUNCLINE>11</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
